@@ -17,3 +17,13 @@ print(hello)
 just do something along the 
 lines of this!
 ]]
+
+print("I want to be able to build a simple game in Lua within 3 weeks!")
+print("For now, I want to be able to build a map :]")
+print("The rest would be stretch deliverables, but let's see!'")
+
+print("These are going to be stretch deliverables:")
+--[[print ("Being able to water plants")
+print ("After watering the plants, the plant will grow!")
+]]
+
