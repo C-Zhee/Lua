@@ -1,0 +1,4 @@
+print(type(3))       -- number
+print(type("Hey"))   -- string
+print(type(false))   -- boolean
+print(type(bonk))    -- nil

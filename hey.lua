@@ -27,3 +27,20 @@ print("These are going to be stretch deliverables:")
 print ("After watering the plants, the plant will grow!")
 ]]
 
+print (4)
+-- 4
+print ("Finding Nemo")
+-- Finding Nemo
+print (true)
+-- true
+print (nil)
+--nil
+
+print(type(3))
+-- integer/number
+print(type("3"))
+-- string
+print(type(true))
+-- boolean
+print(type("true"))
+-- string
